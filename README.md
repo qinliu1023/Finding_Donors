@@ -1,4 +1,4 @@
-# finding_donors
+# Finding_Donors
 
 ## Installation
 This notebook requires python 3.
